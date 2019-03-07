@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":libraries:opencv"><source path="C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\libraries\opencv\build\intermediates\packagedAssets\debug"/></dataSet><dataSet config="main"><source path="C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\assets"/><source path="C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\debug\assets"/></dataSet></merger>

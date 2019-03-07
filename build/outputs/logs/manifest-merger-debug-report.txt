@@ -1,0 +1,172 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\fcaed228e68e8183cb7a4d81a0f4a7ab\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\c36058cd0219fb217f47efe6c9f87ef3\AndroidManifest.xml:17:1-31:12
+MERGED from [:libraries:opencv] C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\libraries\opencv\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\39d02eadb11a3a17b74e90ef84e134f9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\9bfff55acc753f4dc86cac5e7c53c1fb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e4762c97fd1ac8f9d3522b7dbed4a2ae\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\4813d249019404496fc1f5a57a080690\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ef33c83d9fd8d32d218204930c5d78fb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\3b3288955ce44ddde94537e0885f8c1c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\b0df70ff2cda647fa46c09913e486ad9\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b1c6ac8704f4a2f4c72a753c133853ff\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\66003ee755a796c3c949bd1cdcdf7881\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0d35af148d8daaf6b4a644441dbf3435\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:5:11-42
+	android:versionName
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:4:11-36
+		INJECTED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:3:11-34
+		INJECTED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:6:5-15:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\fcaed228e68e8183cb7a4d81a0f4a7ab\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\fcaed228e68e8183cb7a4d81a0f4a7ab\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\c36058cd0219fb217f47efe6c9f87ef3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\c36058cd0219fb217f47efe6c9f87ef3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\39d02eadb11a3a17b74e90ef84e134f9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\39d02eadb11a3a17b74e90ef84e134f9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\9bfff55acc753f4dc86cac5e7c53c1fb\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\9bfff55acc753f4dc86cac5e7c53c1fb\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\4813d249019404496fc1f5a57a080690\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\4813d249019404496fc1f5a57a080690\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ef33c83d9fd8d32d218204930c5d78fb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ef33c83d9fd8d32d218204930c5d78fb\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\3b3288955ce44ddde94537e0885f8c1c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\3b3288955ce44ddde94537e0885f8c1c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\b0df70ff2cda647fa46c09913e486ad9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\b0df70ff2cda647fa46c09913e486ad9\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b1c6ac8704f4a2f4c72a753c133853ff\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b1c6ac8704f4a2f4c72a753c133853ff\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\66003ee755a796c3c949bd1cdcdf7881\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\66003ee755a796c3c949bd1cdcdf7881\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0d35af148d8daaf6b4a644441dbf3435\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0d35af148d8daaf6b4a644441dbf3435\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:6:55-87
+	android:icon
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:6:18-54
+	android:theme
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:7:17-50
+activity#com.example.cam_test1.cam_test1
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:8:9-14:20
+	android:screenOrientation
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:9:110-147
+	android:label
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:8:19-51
+	android:configChanges
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:9:63-109
+	android:theme
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:9:17-62
+	android:name
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:8:52-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:11:17-68
+	android:name
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:12:27-74
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:16:4-74
+	android:name
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:16:21-72
+uses-sdk
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:17:1-39
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\fcaed228e68e8183cb7a4d81a0f4a7ab\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\fcaed228e68e8183cb7a4d81a0f4a7ab\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\c36058cd0219fb217f47efe6c9f87ef3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\c36058cd0219fb217f47efe6c9f87ef3\AndroidManifest.xml:21:5-23:78
+MERGED from [:libraries:opencv] C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\libraries\opencv\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-44
+MERGED from [:libraries:opencv] C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\libraries\opencv\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\39d02eadb11a3a17b74e90ef84e134f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\39d02eadb11a3a17b74e90ef84e134f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\9bfff55acc753f4dc86cac5e7c53c1fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\9bfff55acc753f4dc86cac5e7c53c1fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e4762c97fd1ac8f9d3522b7dbed4a2ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e4762c97fd1ac8f9d3522b7dbed4a2ae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\4813d249019404496fc1f5a57a080690\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\4813d249019404496fc1f5a57a080690\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ef33c83d9fd8d32d218204930c5d78fb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ef33c83d9fd8d32d218204930c5d78fb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\3b3288955ce44ddde94537e0885f8c1c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\3b3288955ce44ddde94537e0885f8c1c\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\b0df70ff2cda647fa46c09913e486ad9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\b0df70ff2cda647fa46c09913e486ad9\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b1c6ac8704f4a2f4c72a753c133853ff\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b1c6ac8704f4a2f4c72a753c133853ff\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\66003ee755a796c3c949bd1cdcdf7881\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\66003ee755a796c3c949bd1cdcdf7881\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0d35af148d8daaf6b4a644441dbf3435\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0d35af148d8daaf6b4a644441dbf3435\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\fcaed228e68e8183cb7a4d81a0f4a7ab\AndroidManifest.xml:23:9-59
+	android:minSdkVersion
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:17:11-37
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:18:1-62
+	android:name
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:18:18-60
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:19:1-74
+	android:name
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:19:18-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:20:1-74
+	android:name
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:20:18-72
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:21:1-60
+	android:name
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:21:18-58
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:22:1-55
+	android:name
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:22:15-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:23:1-65
+	android:name
+		ADDED from C:\Users\Uzeyr ozcan\Downloads\cam_test1\cam_test1\src\main\AndroidManifest.xml:23:15-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\fcaed228e68e8183cb7a4d81a0f4a7ab\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\c36058cd0219fb217f47efe6c9f87ef3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\c36058cd0219fb217f47efe6c9f87ef3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\39d02eadb11a3a17b74e90ef84e134f9\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\39d02eadb11a3a17b74e90ef84e134f9\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\9bfff55acc753f4dc86cac5e7c53c1fb\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\9bfff55acc753f4dc86cac5e7c53c1fb\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e4762c97fd1ac8f9d3522b7dbed4a2ae\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e4762c97fd1ac8f9d3522b7dbed4a2ae\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\4813d249019404496fc1f5a57a080690\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\4813d249019404496fc1f5a57a080690\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ef33c83d9fd8d32d218204930c5d78fb\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\ef33c83d9fd8d32d218204930c5d78fb\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\3b3288955ce44ddde94537e0885f8c1c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\3b3288955ce44ddde94537e0885f8c1c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\b0df70ff2cda647fa46c09913e486ad9\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\b0df70ff2cda647fa46c09913e486ad9\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b1c6ac8704f4a2f4c72a753c133853ff\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b1c6ac8704f4a2f4c72a753c133853ff\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\66003ee755a796c3c949bd1cdcdf7881\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\66003ee755a796c3c949bd1cdcdf7881\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0d35af148d8daaf6b4a644441dbf3435\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\0d35af148d8daaf6b4a644441dbf3435\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\fcaed228e68e8183cb7a4d81a0f4a7ab\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Uzeyr ozcan\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\fcaed228e68e8183cb7a4d81a0f4a7ab\AndroidManifest.xml:26:9-47

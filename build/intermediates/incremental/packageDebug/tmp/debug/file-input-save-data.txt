@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Thu Mar 07 14:44:15 EET 2019
+1.base=C\:\\Users\\Uzeyr ozcan\\Downloads\\cam_test1\\cam_test1\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+2.path=lib/armeabi-v7a/libopencv_java3.so
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=C\:\\Users\\Uzeyr ozcan\\Downloads\\cam_test1\\cam_test1\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+3.set=NATIVE_RESOURCE
+2.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+3.path=lib/armeabi-v7a/libcam_test1.so
+count=4
+1.set=NATIVE_RESOURCE
+0.path=classes.dex
+3.base=C\:\\Users\\Uzeyr ozcan\\Downloads\\cam_test1\\cam_test1\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
+0.set=DEX
+0.base=C\:\\Users\\Uzeyr ozcan\\Downloads\\cam_test1\\cam_test1\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+2.baseType=DIRECTORY
+1.path=lib/armeabi-v7a/libc++_shared.so
